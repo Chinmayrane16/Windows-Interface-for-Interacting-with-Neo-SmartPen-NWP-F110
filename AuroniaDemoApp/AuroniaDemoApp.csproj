@@ -84,16 +84,16 @@
     <None Include="Resources\background.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\Neosmartpen.Net.Protocol.v1.csproj">
-      <Project>{8B255C73-2B9D-438D-BCBC-5CF9C4ECD82B}</Project>
+    <ProjectReference Include="..\Neosmartpen.Net.Protocol.v1\Neosmartpen.Net.Protocol.v1.csproj">
+      <Project>{8b255c73-2b9d-438d-bcbc-5cf9c4ecd82b}</Project>
       <Name>Neosmartpen.Net.Protocol.v1</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v2\Neosmartpen.Net.Protocol.v2.csproj">
-      <Project>{63FE81C9-53F4-4D52-BECE-40EAA0D31998}</Project>
+    <ProjectReference Include="..\Neosmartpen.Net.Protocol.v2\Neosmartpen.Net.Protocol.v2.csproj">
+      <Project>{63fe81c9-53f4-4d52-bece-40eaa0d31998}</Project>
       <Name>Neosmartpen.Net.Protocol.v2</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\WindowSDK2.0-master\Neosmartpen.Net\Neosmartpen.Net.csproj">
-      <Project>{16297E2B-052F-4A7E-BCB0-9B52C6420F34}</Project>
+    <ProjectReference Include="..\Neosmartpen.Net\Neosmartpen.Net.csproj">
+      <Project>{16297e2b-052f-4a7e-bcb0-9b52c6420f34}</Project>
       <Name>Neosmartpen.Net</Name>
     </ProjectReference>
   </ItemGroup>

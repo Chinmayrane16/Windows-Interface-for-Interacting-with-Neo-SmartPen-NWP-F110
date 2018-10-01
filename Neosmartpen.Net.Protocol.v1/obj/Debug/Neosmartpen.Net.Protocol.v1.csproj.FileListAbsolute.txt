@@ -1,0 +1,12 @@
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\Neosmartpen.Net.Protocol.v1.dll
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\Neosmartpen.Net.Protocol.v1.pdb
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\Neosmartpen.Net.dll
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\Neosmartpen.Net.pdb
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\obj\Debug\Neosmartpen.Net.Protocol.v1.csprojAssemblyReference.cache
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\obj\Debug\Neosmartpen.Net.Protocol.v1.csproj.CoreCompileInputs.cache
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\obj\Debug\Neosmartpen.Net.Protocol.v1.csproj.CopyComplete
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\obj\Debug\Neosmartpen.Net.Protocol.v1.dll
+C:\Users\Chinmay\source\repos\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\obj\Debug\Neosmartpen.Net.Protocol.v1.pdb

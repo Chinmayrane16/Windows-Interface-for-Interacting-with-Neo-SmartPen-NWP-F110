@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuroniaDemoApp", "AuroniaDemoApp\AuroniaDemoApp.csproj", "{6A6BE0B5-5AD4-43D7-97E9-C70EF0FE16AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neosmartpen.Net", "..\WindowSDK2.0-master\Neosmartpen.Net\Neosmartpen.Net.csproj", "{16297E2B-052F-4A7E-BCB0-9B52C6420F34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neosmartpen.Net", "Neosmartpen.Net\Neosmartpen.Net.csproj", "{16297E2B-052F-4A7E-BCB0-9B52C6420F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neosmartpen.Net.Protocol.v1", "..\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v1\Neosmartpen.Net.Protocol.v1.csproj", "{8B255C73-2B9D-438D-BCBC-5CF9C4ECD82B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neosmartpen.Net.Protocol.v1", "Neosmartpen.Net.Protocol.v1\Neosmartpen.Net.Protocol.v1.csproj", "{8B255C73-2B9D-438D-BCBC-5CF9C4ECD82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neosmartpen.Net.Protocol.v2", "..\WindowSDK2.0-master\Neosmartpen.Net.Protocol.v2\Neosmartpen.Net.Protocol.v2.csproj", "{63FE81C9-53F4-4D52-BECE-40EAA0D31998}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neosmartpen.Net.Protocol.v2", "Neosmartpen.Net.Protocol.v2\Neosmartpen.Net.Protocol.v2.csproj", "{63FE81C9-53F4-4D52-BECE-40EAA0D31998}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
